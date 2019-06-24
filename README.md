@@ -1,2 +1,2 @@
 # f1blocker
-Anti-spiler Forma-1 hírblokkoló
+Anti-spoiler Forma-1 hírblokkoló
