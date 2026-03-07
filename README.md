@@ -14,7 +14,7 @@ Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjoj
 
 ## 2. Egyedi script telepítése
 
-1. Nyisd meg a [f1blocker.user.js](https://github.com/dnbence/f1blocker/raw/main/f1blocker.user.js) fájlt a GitHub-on.
+1. Nyisd meg a [f1blocker.user.js](https://github.com/dnbence/f1blocker/blob/master/f1blocker.user.js) fájlt a GitHub-on.
 2. Kattints a "Raw" gombra, vagy másold ki a nyers fájl linkjét, és illeszd be egy új böngésző fülbe.
 3. A Greasemonkey vagy Tampermonkey automatikusan felajánlja a telepítést. Kattints az "Install" vagy "Telepítés" gombra.
 4. Frissítsd a https://telex.hu oldalt, és a script automatikusan működni fog a versenyhétvégék körüli napokon.
