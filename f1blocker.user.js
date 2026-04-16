@@ -77,11 +77,12 @@
 		/bahrein/i,
 		/dzsiddah/i,
 		/melbourne/i,
-		/szuzuka/i,
+		/sz?uzuka/i,
 		/sanghaj/i,
 		/miami/i,
 		/imola/i,
 		/monaco/i,
+		/monte.carlo/i,
 		/barcelona/i,
 		/montreál/i,
 		/spielberg/i,
@@ -101,28 +102,26 @@
 	];
 
 	const races = [
-		"2026-03-08", // Bahrain GP
-		"2026-03-15", // Saudi Arabian GP (Jeddah)
-		"2026-03-22", // Australian GP (Melbourne)
-		"2026-04-05", // Japanese GP (Suzuka)
-		"2026-04-19", // Chinese GP (Shanghai)
+		"2026-03-08", // Australian GP (Melbourne)
+		"2026-03-15", // Chinese GP (Shanghai)
+		"2026-03-29", // Japanese GP (Suzuka)
 		"2026-05-03", // Miami GP
-		"2026-05-17", // Emilia-Romagna GP (Imola)
-		"2026-05-24", // Monaco GP
-		"2026-06-07", // Spanish GP (Barcelona)
-		"2026-06-14", // Canadian GP (Montreal)
+		"2026-05-24", // Canadian GP (Montreal)
+		"2026-06-07", // Monaco GP
+		"2026-06-14", // Barcelona-Catalunya GP
 		"2026-06-28", // Austrian GP (Spielberg)
-		"2026-07-12", // British GP (Silverstone)
+		"2026-07-05", // British GP (Silverstone)
+		"2026-07-19", // Belgian GP (Spa)
 		"2026-07-26", // Hungarian GP (Hungaroring)
-		"2026-08-02", // Belgian GP (Spa)
 		"2026-08-23", // Dutch GP (Zandvoort)
 		"2026-09-06", // Italian GP (Monza)
-		"2026-09-20", // Azerbaijan GP (Baku)
-		"2026-09-27", // Singapore GP
-		"2026-10-11", // United States GP (Austin)
-		"2026-10-25", // Mexico City GP
-		"2026-11-08", // São Paulo GP (Interlagos)
-		"2026-11-22", // Las Vegas GP
+		"2026-09-13", // Spanish GP (Madrid)
+		"2026-09-26", // Azerbaijan GP (Baku, Saturday race)
+		"2026-10-11", // Singapore GP
+		"2026-10-25", // United States GP (Austin)
+		"2026-11-01", // Mexico City GP
+		"2026-11-08", // Sao Paulo GP (Interlagos)
+		"2026-11-21", // Las Vegas GP (Saturday race)
 		"2026-11-29", // Qatar GP
 		"2026-12-06"  // Abu Dhabi GP
 	];
